@@ -4,7 +4,7 @@ public class Employee {
     private double salary;
     private int id;
 
-    private static int counter = 0;
+    private static int counter = 1;
 
 
 
